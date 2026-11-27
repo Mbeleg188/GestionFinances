@@ -1,4 +1,4 @@
-Système de gestion des finances personnelles
+
 
 1. Présentation du projet
 
