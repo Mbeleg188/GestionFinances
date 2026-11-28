@@ -15,7 +15,7 @@ public class MenuController
                     CategoryView.AfficherMenu();
                     break;
                 case "2":
-                    TransactionView.AfficherMenu();
+                    TransactionController.Demarrer();
                     break;
                 case "3":
                     TableauBord.AfficherMenu();
